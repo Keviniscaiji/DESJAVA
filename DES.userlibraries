@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="json">
+    <archive path="/Users/gongkaiwen/Desktop/大学/大四上/安全/DES/json/ezmorph-1.0.3.jar" />
+    <archive path="/Users/gongkaiwen/Desktop/大学/大四上/安全/DES/json/commons-logging.jar" />
+    <archive path="/Users/gongkaiwen/Desktop/大学/大四上/安全/DES/json/commons-lang-2.5.jar" />
+    <archive path="/Users/gongkaiwen/Desktop/大学/大四上/安全/DES/json/json-lib-2.4-jdk15.jar" />
+    <archive path="/Users/gongkaiwen/Desktop/大学/大四上/安全/DES/json/commons-beanutils-1.7.0.jar" />
+    <archive path="/Users/gongkaiwen/Desktop/大学/大四上/安全/DES/json/commons-collections-3.1.jar" />
+  </library>
+  <library name="commons-codec-1.15">
+    <archive path="/Users/gongkaiwen/Desktop/大学/大四上/安全/DES/commons-codec-1.15.jar" />
+  </library>
+  <library name="lib" />
+</eclipse-userlibraries>
+
